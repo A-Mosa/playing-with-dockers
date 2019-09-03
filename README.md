@@ -1,4 +1,5 @@
 # Basics of Docker Containers
-Reviewing the basics of docker containers based on the tutorials provided by https://docs.docker.com/get-started
+This is a set of my docker images. Initially, created to review the basics of docker containers.
 ## Creating a docker file
+- A simple Flask app
 ## Services
