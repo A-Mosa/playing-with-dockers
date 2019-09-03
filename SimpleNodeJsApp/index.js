@@ -6,6 +6,6 @@ app.get('/', (req, res) => {
   res.send('Our Web App : Home');
 });
 
-app.listen(8888, () => {
-    console.log('Listening on port 88880');
+app.listen(8080, () => {
+    console.log('Node JS App listening on port 8080');
   });
