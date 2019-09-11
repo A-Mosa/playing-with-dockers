@@ -5,7 +5,7 @@ metadata:
   labels:
     component: web
 spec:
-  conatiners:
+  containers:
     - name: client
       image: stephengrider/multi-client
       ports:
